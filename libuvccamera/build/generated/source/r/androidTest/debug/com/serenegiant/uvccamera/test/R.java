@@ -18,14 +18,10 @@ public final class R {
         public static final int vertical_margin=0x7f050004;
     }
     public static final class id {
-        public static final int LinearLayout1=0x7f060000;
-        public static final int name_text=0x7f060003;
-        public static final int spinner1=0x7f060002;
-        public static final int textView1=0x7f060001;
+        public static final int name_text=0x7f060000;
     }
     public static final class layout {
-        public static final int dialog_camera=0x7f020000;
-        public static final int listitem_device=0x7f020001;
+        public static final int listitem_device=0x7f020000;
     }
     public static final class string {
         public static final int app_name=0x7f040004;

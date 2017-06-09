@@ -3,12 +3,8 @@ int dimen horizontal_margin 0x7f050001
 int dimen list_font_size 0x7f050002
 int dimen list_height_min 0x7f050003
 int dimen vertical_margin 0x7f050004
-int id LinearLayout1 0x7f060000
-int id name_text 0x7f060003
-int id spinner1 0x7f060002
-int id textView1 0x7f060001
-int layout dialog_camera 0x7f020000
-int layout listitem_device 0x7f020001
+int id name_text 0x7f060000
+int layout listitem_device 0x7f020000
 int string app_name 0x7f040004
 int string camera 0x7f040000
 int string no_device 0x7f040001
