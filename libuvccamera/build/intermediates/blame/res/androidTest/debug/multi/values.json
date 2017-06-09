@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 48,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 48,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 45,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 45,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 46,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 46,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 46,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 46,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 45,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/john/.android/build-cache/a92cb02f84c982a06f0f5674be6b2d26566b5005/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 41,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 41,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 57,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 57,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 43,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 43,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 56,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "/Users/john/Documents/workspace/LibUVCCameraDemo/libuvccamera/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 56,
+                        "endOffset": 483
+                    }
+                }
+            }
+        ]
+    }
+]
