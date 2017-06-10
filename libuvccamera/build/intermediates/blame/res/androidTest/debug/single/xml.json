@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\Users\\john\\Documents\\workspace\\LibUVCCameraDemo\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
-        "source": "D:\\Users\\john\\Documents\\workspace\\LibUVCCameraDemo\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
-    },
-    {
         "merged": "D:\\github\\LibUVCCameraDemo\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
         "source": "D:\\github\\LibUVCCameraDemo\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
     }

@@ -48,10 +48,11 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.util.SparseArray;
 
+import com.serenegiant.proxy.IUSBMonitor;
 import com.serenegiant.utils.BuildCheck;
 import com.serenegiant.utils.HandlerThreadHandler;
 
-public final class USBMonitor {
+public final class USBMonitor implements IUSBMonitor {
 
 	private static final boolean DEBUG = false;	// TODO set false on production
 	private static final String TAG = "USBMonitor";

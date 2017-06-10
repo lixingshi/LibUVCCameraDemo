@@ -30,6 +30,10 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="25" />
 
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application>
         <service android:name="com.serenegiant.service.TakeVideoService" />
     </application>
