@@ -75,7 +75,7 @@ public final class USBMonitorProxy implements IUSBMonitor{
 
     public synchronized boolean startTakeVideo(){
         if (checkPermissionWriteExternalStorage() && checkPermissionAudio()) {
-            if (!mCameraHandler.isRecording()) {
+            if (mCameraHandler != null && !mCameraHandler.isRecording()) {
                 mCameraHandler.startRecording();
                 Log.d(TAG,"startRecording");
                 return true;
